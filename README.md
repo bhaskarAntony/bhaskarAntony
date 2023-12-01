@@ -1,5 +1,12 @@
+**Hello World,**
+Bhaskar babu cm, bhaskar Antony
 
-<!---
-bhaskarAntony/bhaskarAntony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technologies:
+
+Javascript, React, Python, jQuery
+Node
+Also interested in:
+
+Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress
+Cheers,
+Bhaskar babu cm
