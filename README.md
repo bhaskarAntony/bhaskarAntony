@@ -17,4 +17,3 @@ Connect with me:
 📧 Email: bhaskarAntony@gmail.com
 
 Happy coding! 🚀
-![Alt text]()
